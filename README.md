@@ -19,6 +19,15 @@ Hello World
 - [Play with Docker](https://www.docker.com/play-with-docker/)
 - [Docker Cheatsheet](https://drive.google.com/file/d/1kvkVgVjgGbJ4CVqu68U_OvAxdOoP7ahj/view?usp=sharing)
 
+## Troubleshooting Guide
+
+### Unable to run Docker Desktop
+
+Ref: [Unable to run Docker Desktop #13843](https://github.com/docker/for-win/issues/13843)
+
+1. Re-install
+2. Kill the process
+
 ## Ethereum Client Example
 
 ### AA Bundler E2E Test
